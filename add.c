@@ -2,7 +2,7 @@ main(){
 add(){
 int a=10;
 int b=5;
-int c=a+b;
+float d =1638+44
   wuueue;
   jjd;
 }}
